@@ -1,0 +1,13 @@
+# Force Times New Roman (no LaTeX)
+text.usetex : False
+
+# Text font
+font.family : serif
+font.serif  : Times New Roman
+
+# Mathtext close to Times New Roman
+axes.formatter.use_mathtext : True
+mathtext.fontset : custom
+mathtext.rm : Times New Roman
+mathtext.it : Times New Roman:italic
+mathtext.bf : Times New Roman:bold
